@@ -39,7 +39,7 @@ be completly immersed in it ,that is the way I've been improving my english for 
  
 <div> 
   <a href= "https://api.whatsapp.com/send?phone=5547992145877&text=Ola%20me%20mamde%20uma%20mensagem%20e%20responderei%20em%20breve%20:)" target="_blank"><img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white target="_blank"></a>
-  <a href = "jeancarlossantos12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jeancarlossantos12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href=https://www.linkedin.com/in/jean-frança-a76567205/target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href=
