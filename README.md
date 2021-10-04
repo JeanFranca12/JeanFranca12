@@ -21,12 +21,14 @@ be completly immersed in it ,that is the way I've been improving my english for 
 - 📫 How to reach me: | Linkedin: Jean França | Facebook: Jean França | jeancarlossantos12@gmail.com | 47 9 9214-5877.
 
 
- <h2>Olá, meu nome é Jean carlos, aqui você pode acompanhar o meu trabalho.<h2>
+ <h2>Olá, meu nome é Jean carlos, aqui você pode conhecerr o meu trabalho.<h2>
  <br>
 
 <div align="center">
   <a href="https://github.com/JeanFranca12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeanFranca12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <br>
+   <br>
    <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanFranca12&layout=compact&langs_count=7&theme=dark"/>
 </div>
