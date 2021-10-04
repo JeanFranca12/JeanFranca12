@@ -8,7 +8,7 @@ programação o melhor a se fazer é uma imerção total, foi assim que faço na
 - 💬 Me pergunte sobre | Qualquer coisa, eu sou um livro aberto.
 - 📫 Como me contactar : | Linkedin: Jean França | Facebook: Jean França | jeancarlossantos12@gmail.com | 47 9 9214-5877.
 
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 Hi there, my name is Jean Carlos Pedroso de França dos Santos. 😅
 
