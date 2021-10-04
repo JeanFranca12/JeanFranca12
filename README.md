@@ -21,9 +21,9 @@ be completly immersed in it ,that is the way I've been improving my english for 
 - 📫 How to reach me: | Linkedin: Jean França | Facebook: Jean França | jeancarlossantos12@gmail.com | 47 9 9214-5877.
 
 
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Olá, meu nome é Jean carlos, iniciante no mundo da Programação em busca da primeira oportunidade
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/JeanFranca12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
