@@ -6,6 +6,7 @@
 - 🤔 Procuro ajuda com | Uma oportunidade de emprego na área, acredito que assim como para aprender uma nova lingua, quando queremos aprimorar nossas habilidades em 
 programação o melhor a se fazer é uma imerção total, foi assim que faço na medida do possivel para desenvolvrer o meu inglês e é assim que pretendo continuar fazendo para ser cada vez mais um programador qualificado.
 - 💬 Me pergunte sobre | Qualquer coisa, eu sou um livro aberto.
+- Acesse minha web page https://jeanfranca12.github.io/MyCV/
 - 📫 Como me contactar | Linkedin: Jean França | Facebook: Jean França | jeancarlossantos12@gmail.com | 47 9 9214-5877.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -18,6 +19,7 @@ Hi there, my name is Jean Carlos Pedroso de França dos Santos. 😅
 - 🤔 I’m looking for help with | A job opportunit in this area, I believe that as when want to master a new language , when we are learning programming we also need to 
 be completly immersed in it ,that is the way I've been improving my english for 3 years so far and is the way that I want to boost my habilities as a programmer.
 - 💬 Ask me about | Anything, because I'm an open book.
+- Access my web page https://jeanfranca12.github.io/MyCV/
 - 📫 How to reach me: | Linkedin: Jean França | Facebook: Jean França | jeancarlossantos12@gmail.com | 47 9 9214-5877.
 
 
