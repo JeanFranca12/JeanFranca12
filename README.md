@@ -23,7 +23,7 @@ be completly immersed in it ,that is the way I've been improving my english for 
 - 📫 How to reach me: | Linkedin: Jean França | Facebook: Jean França | jeancarlossantos12@gmail.com | 47 9 9214-5877.
 
 
- <h2>Olá, meu nome é Jean carlos, aqui você pode conhecerr o meu trabalho.<h2>
+ <h2>Olá, meu nome é Jean carlos, aqui você pode conhecer o meu trabalho.<h2>
  <br>
 
 <div align="center">
